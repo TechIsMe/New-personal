@@ -22,7 +22,9 @@ function Video() {
         <h1>Bruktawit Wolde</h1>
         <p>React Developer </p>
         <div>
+            {/* <Link to='/portfolio' className='btn'>Hire Me</Link> */}
             <Link to='/portfolio' className='btn'>Hire Me</Link>
+
         </div>
     </div>
 </div>
