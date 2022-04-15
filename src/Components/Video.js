@@ -1,8 +1,8 @@
 import React from 'react';
 import './Video.css';
 import { Link } from 'react-router-dom';
-// import BanVideo from '../assets/images/pexel.gif';
-import BanVideo from '../assets/images/pexels-vd.mp4';
+import BanVideo from '../assets/images/pexel.gif';
+// import BanVideo from '../assets/images/pexels-vd.mp4';
 
 
 
@@ -14,7 +14,13 @@ function Video() {
     <div className='Bg-hero'>
     <video  mute loop id='video'>
         {/* <source src={BanVideo} type='video/mp4' /> */}
-        {/* <source src={BanVideo} type='video/mp4' /> */}
+        <source src={BanVideo} type='video/gif' />
+
+        {/* <img
+        src={process.env.PUBLIC_URL + "/images/pexel.gif"}
+        alt="/"
+      /> */}
+
 
 
     </video>
