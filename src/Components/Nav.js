@@ -10,12 +10,12 @@ function Nav() {
     const handleClick = () => setClick(!click)
   return (
     <div className="header">
-      <Link to="/">
+      <Link to="/New-personal">
         <h1> BROOK</h1>
       </Link>
       <ul className={click ? 'menu active' : 'menu'}>
         <li>
-          <Link to="/">Home</Link>
+          <Link to="/New-personal">Home</Link>
         </li>
         <li>
           <Link to="/about">About</Link>
