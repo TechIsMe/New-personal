@@ -11,7 +11,7 @@ function About() {
     <div className="profile" >
       <div className="p1">
         <div>
-        <img src={process.env.PUBLIC_URL + "/images/Kem-hero.png"}alt="" />
+        <img src={process.env.PUBLIC_URL + "/images/mePrp.png"}alt="" />
 
       </div>
       
