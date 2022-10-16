@@ -1,10 +1,10 @@
-# Getting Started with Create React App
+# Project Tittle
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Personal Portfolio
 
-## Available Scripts
-
-In the project directory, you can run:
+## Introduction
+I Created a responsive React portfolio website using HTML,CSS ,functional components and React hooks. 
+In this project :
 
 ### `npm start`
 
