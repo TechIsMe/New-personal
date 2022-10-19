@@ -5,7 +5,7 @@
    * [Introductions](#Introduction)
    
    * [Description](#Description) 
-   
+   *[Author](#Author) 
     
  ## Tools
   
@@ -13,7 +13,7 @@
   
 ## Author
 
-   *[Author](#Author) 
+   
 
 ## Preview
 
