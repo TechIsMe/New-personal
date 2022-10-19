@@ -1,9 +1,14 @@
 # Personal Portfolio
+
 ## Table of contents
 *Overview
+
    **[Preview](#Preview)
-   *[Introductions](#Introduction)  
+   
+   *[Introductions](#Introduction)
+   
    *[Description](#Description) 
+   
    *[Tools](#Tools)
   
 
