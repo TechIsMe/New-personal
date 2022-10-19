@@ -6,14 +6,14 @@
    
    * [Description](#Description) 
    
-    *[Author](# Author) 
-   
-    * [Tools].(#Tools)
     
-   * [Preview](#![portsnpit](https://user-images.githubusercontent.com/93556946/196770831-3dd2c365-0abd-478f-b964-5366ef3a4d2e.PNG))
-   * [Preview](#![portSnip](https://user-images.githubusercontent.com/93556946/196772596-c229dc93-4f9c-427d-a0a1-9a673dd0c03f.PN))
- 
+ ## Tools
   
+  * [Tools](#DTools) 
+  
+## Author
+
+   **[Author](# Author) 
 
 ## Preview
 
