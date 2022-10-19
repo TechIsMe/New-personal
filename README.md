@@ -2,13 +2,13 @@
 
 ## Table of contents
 
-   *[Preview](#Preview)
+   1.[Preview](#Preview)
    
-   *[Introductions](#Introduction)
+   2.[Introductions](#Introduction)
    
-   *[Description](#Description) 
+   3.[Description](#Description) 
    
-   *[Tools](#Tools)
+   4.[Tools](#Tools)
   
 
 ## Preview
