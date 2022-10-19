@@ -33,4 +33,4 @@ I built this  personal portfolio website in React JS by using a couple react pac
 
 ## Author
 *BRUKTAWIT WOLDE
- *[Linkedin](https://www.linkedin.com/in/bruktawit-wolde-588131219/)
+ *[Linkedin](https://www.linkedin.com)
