@@ -13,7 +13,7 @@
   
 ## Author
 
-   **[Author](#Autho) 
+   *[Author](#Author) 
 
 ## Preview
 
