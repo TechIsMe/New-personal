@@ -19,6 +19,7 @@
 
 
 ## Introduction
+
 I Created a responsive React portfolio website to showcase some of the projects I have been working on for the last 6 month. 
 
 ## Description
