@@ -9,11 +9,11 @@
     
  ## Tools
   
-  * [Tools](#DTools) 
+  * [Tools](#Tools) 
   
 ## Author
 
-   **[Author](# Author) 
+   **[Author](#Autho) 
 
 ## Preview
 
@@ -43,5 +43,6 @@ I built this  personal portfolio website in React JS by using a couple react pac
 ## Author
 
 * BRUKTAWIT WOLDE
+* 
    * [Profile website]http://localhost:3000/New-personal
    * [Linkedin]https://www.linkedin.com/in/bruktawit-wolde-588131219/
