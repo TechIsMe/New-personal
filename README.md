@@ -2,19 +2,19 @@
 
 ## Table of contents
 
-   1.[Preview](#Preview)
+   * [Preview](#![portsnpit](https://user-images.githubusercontent.com/93556946/196770831-3dd2c365-0abd-478f-b964-5366ef3a4d2e.PNG))
    
-   2.[Introductions](#Introduction)
+   * [Introductions](#Introduction)
    
-   3.[Description](#Description) 
+   * [Description](#Description) 
    
    4.[Tools](#Tools)
   
 
 ## Preview
 
-![candy](https://user-images.githubusercontent.com/93556946/196767217-6f20c146-88e0-4ae3-b367-a9a34333
 
+![portsnpit](https://user-images.githubusercontent.com/93556946/196770831-3dd2c365-0abd-478f-b964-5366ef3a4d2e.PNG)
 ## Introduction
 I Created a responsive React portfolio website using HTML,CSS ,functional components and React hooks. 
 
