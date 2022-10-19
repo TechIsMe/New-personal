@@ -32,5 +32,5 @@ I built this  personal portfolio website in React JS by using a couple react pac
 *React-Router-Dom V6.
 
 ## Author
-*BRUKTAWIT WOLDE
- *[Linkedin](https://www.linkedin.com)
+* BRUKTAWIT WOLDE
+ * [Linkedin]([https://www.linkedin.com](https://www.linkedin.com/in/bruktawit-wolde-588131219/))
