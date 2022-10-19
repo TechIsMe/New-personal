@@ -43,5 +43,5 @@ I built this  personal portfolio website in React JS by using a couple react pac
 
 * BRUKTAWIT WOLDE
 
-   * [Profile website]http://localhost:3000/New-personal
-   * [Linkedin]https://www.linkedin.com/in/bruktawit-wolde-588131219/
+   * [Profile website] (http://localhost:3000/New-personal)
+   * [Linkedin] (https://www.linkedin.com/in/bruktawit-wolde-588131219/)
