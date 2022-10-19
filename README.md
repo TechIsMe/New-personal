@@ -1,9 +1,8 @@
 # Personal Portfolio
 
 ## Table of contents
-*Overview
 
-   **[Preview](#Preview)
+   *[Preview](#Preview)
    
    *[Introductions](#Introduction)
    
@@ -13,7 +12,9 @@
   
 
 ## Preview
+
 ![candy](https://user-images.githubusercontent.com/93556946/196767217-6f20c146-88e0-4ae3-b367-a9a34333
+
 ## Introduction
 I Created a responsive React portfolio website using HTML,CSS ,functional components and React hooks. 
 
